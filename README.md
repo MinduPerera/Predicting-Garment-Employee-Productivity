@@ -1,7 +1,7 @@
 # 🎯 Final Report: Predicting Garment Employee Productivity
 
 ## 📌 Objective
-To predict the actual productivity of sewing operators using available operational data — excluding `target_productivity` to simulate a more realistic planning scenario.
+To predict the actual productivity of sewing operators using available operational data.
 
 ---
 
